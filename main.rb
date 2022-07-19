@@ -17,3 +17,4 @@ elsif char == '/'
     puts "На ноль делить нельзя"
   end
 end
+# test 
